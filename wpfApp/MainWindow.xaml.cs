@@ -22,6 +22,7 @@ namespace wpfApp
     {
         public MainWindow()
         {
+            ///интерфейс
             InitializeComponent();
         }
     }
